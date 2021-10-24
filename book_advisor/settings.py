@@ -28,8 +28,8 @@ SECRET_KEY = 'n-cqgln@l+jt7cb7nbxr@7+lldu2=g@0)8w#@24b5_^%q&7i0)'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-#     'https://nurture-assignment.herokuapp.com/',
-#     'http://localhost:8000/'
+    'nurture-assignment.herokuapp.com',
+    'localhost'
 ]
 
 
