@@ -1,1 +1,1 @@
-web: gunicorn book_advisor.book_advisor.wsgi
+web: gunicorn book_advisor.wsgi
