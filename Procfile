@@ -1,0 +1,1 @@
+web: gunicorn book_advisor.book_advisor.wsgi
